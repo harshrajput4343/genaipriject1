@@ -4,6 +4,7 @@ streamlit
 python-dotenv
 pyPDf2
 langchain-community
+langchain-openai
 
 
 -e .
